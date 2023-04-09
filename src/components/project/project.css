@@ -1,0 +1,53 @@
+.project__container{
+    margin-top: 50px;
+}
+
+.card__container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+
+.project__img{
+    width: 260px;
+    height: 160px;
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    transition: .3s;
+}
+
+.project__img:hover{
+    width: 261.3px;
+    border-radius: 7px;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+
+.button__container{
+    display: flex;
+    justify-content: center;
+    column-gap: 46px;
+    position: relative;
+    top: -50px;
+    /* left: 0; */
+}
+
+.button__container a{
+    font-size: 14px;
+}
+.project__button{
+    padding: 5px 11px;
+    background-color: #2F57E6;
+    color: aliceblue;
+    border-radius: 9px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    opacity: 0.7;
+    transition: .3s;
+}
+
+.project__button:hover{
+    opacity: 1;
+    background-color: #2F57E6;
+    color: aliceblue;
+}
+
