@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rijvan/static/css/main.bdc5ab5c.css",
+    "main.js": "/rijvan/static/js/main.db31d392.js",
+    "static/media/gmiu_project.png": "/rijvan/static/media/gmiu_project.b04ac1d1a99c5ea9cffd.png",
+    "static/media/portfoliaOld_project.png": "/rijvan/static/media/portfoliaOld_project.f779b0cdf5bff041c059.png",
+    "static/media/dhyey_photo.png": "/rijvan/static/media/dhyey_photo.fa62cd4d57ba3f492b57.png",
+    "static/media/paramshiv_photo.png": "/rijvan/static/media/paramshiv_photo.ee81df72d92f3b9b06b4.png",
+    "static/media/divyaraj_photo.png": "/rijvan/static/media/divyaraj_photo.4adf1c9e7b9aef8d1f40.png",
+    "static/media/BeatsHeadphone_project.png": "/rijvan/static/media/BeatsHeadphone_project.6e9043e7d4ce83518d91.png",
+    "static/media/pratham_photo.png": "/rijvan/static/media/pratham_photo.1e841e00feb75b2251b5.png",
+    "static/media/portfilia2_project.png": "/rijvan/static/media/portfilia2_project.6ff28df897b5f85122b4.png",
+    "static/media/juneja (5).pdf": "/rijvan/static/media/juneja (5).df1934c0d4bd6b15d629.pdf",
+    "static/media/Rijvan_logo.png": "/rijvan/static/media/Rijvan_logo.4630e8fcc2f0b53ed084.png",
+    "static/media/dev_photo.png": "/rijvan/static/media/dev_photo.86b3202787258f897329.png",
+    "static/media/rijvan.jpg": "/rijvan/static/media/rijvan.0141bd4c306d3bc24779.jpg",
+    "static/media/about_img.JPG": "/rijvan/static/media/about_img.90d1f8b77649b9f0bef1.JPG",
+    "static/media/R-logo.png": "/rijvan/static/media/R-logo.c8451d5888dae29475c9.png",
+    "static/media/notes_project.png": "/rijvan/static/media/notes_project.36e45474ec1279453a33.png",
+    "index.html": "/rijvan/index.html",
+    "main.bdc5ab5c.css.map": "/rijvan/static/css/main.bdc5ab5c.css.map",
+    "main.db31d392.js.map": "/rijvan/static/js/main.db31d392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc5ab5c.css",
+    "static/js/main.db31d392.js"
+  ]
+}
