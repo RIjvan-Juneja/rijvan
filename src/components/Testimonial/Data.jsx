@@ -38,8 +38,15 @@ export const Data = [
     {
         id : 6,
         image : require('../../assets/paramshiv_photo.png'),
-        title : "Paramshiv Maheta",
+        title : "Paramshiv Mehta",
         sub_title : "Programmer",
         description : "I Currently pursuing B.E In IT from Gyanmanjari Institute Of Technology",
+    },
+    {
+        id : 7,
+        image : require('../../assets/darshan__photo.png'),
+        title : "Darshan Mithapara",
+        sub_title : "Front-end Developer",
+        description : "I Currently pursuing B.E In Information Technology, HTML,CSS and JavaScript",
     },
 ];

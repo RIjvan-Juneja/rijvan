@@ -75,7 +75,7 @@
 }
 
 .home__img {
-    background: url(../../assets/rijvan.jpg);
+    background: url('../../../assets/rijvan.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

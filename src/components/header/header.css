@@ -4,8 +4,13 @@
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background-color: var(--body-color);
+    /* background-color: var(--body-color); */
     /* box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12); */
+    background: rgba(255,255,255,.5); 
+    box-shadow: 0 0 50px #00000026;
+    transition: all .3s ease-in-out;
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(25px);
 }
 
 .nav{
@@ -44,6 +49,10 @@
     font-weight: var(--font-medium);
     transition: .3s;
 }
+.nav__link:hover{
+    transform: translateY(-1.8px);
+    border-bottom: 1px solid black;
+}
 
 
 .nav__icon,
@@ -61,6 +70,10 @@
 /* R logo  */
 .r__logo{
     width: 18%;
+    transition: .3s;
+}
+.r__logo:hover{
+    transform: translateY(-2px);
 }
 
  /*=============== BREAKPOINTS ===============*/
@@ -75,6 +88,7 @@
         border-radius: 13px;
         margin-bottom: 9px;
         box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+        backdrop-filter: none;
     }
 
     .nav{
